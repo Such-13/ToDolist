@@ -4,9 +4,13 @@ Welcome to Flutter TodoList, a simple yet powerful to-do list application built 
 
 ### Features
 Add Tasks: Easily add new tasks to your to-do list.
+
 Remove Tasks: Mark tasks as completed and remove them from your list.
+
 Update Tasks: Edit existing tasks to keep your list up-to-date.
+
 Intuitive Interface: User-friendly design for smooth task management.
+
 Cross-Platform: Works seamlessly on both Android and iOS devices.
 
 ## Getting Started
